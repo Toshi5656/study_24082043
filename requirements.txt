@@ -1,4 +1,4 @@
-streamlit
-speech_recognition
+streamlit==1.37.1
+SpeechRecognition
 OpenAI
 os
